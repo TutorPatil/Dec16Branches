@@ -1,6 +1,16 @@
 # Compiled class file
 *.class
 
+*.properties
+
+*.log
+!test2.log
+
+*.txt
+
+target/*
+
+
 # Log file
 
 # BlueJ files
